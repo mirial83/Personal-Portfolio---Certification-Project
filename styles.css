@@ -1,0 +1,7 @@
+.skyline {
+    background: url("./skyline-day.png") no-repeat;
+    display: inline-block;
+}
+.skyline:hover {
+    background: url("./skyline-night.png") no-repeat;
+}
